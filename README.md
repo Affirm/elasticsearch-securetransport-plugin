@@ -18,7 +18,7 @@ Installing from Source
 -------------
 
 ```
-git clone https://github.com/gregsterin/elasticsearch-securetransport-plugin
+git clone https://github.com/Affirm/elasticsearch-securetransport-plugin
 cd elasticsearch-securetransport-plugin
 mvn package
 $ES_HOME/bin/plugin install target/elasticsearch-transport-secure-2.4.2.zip
