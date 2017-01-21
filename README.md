@@ -80,6 +80,7 @@ PUT /_cluster/settings
 }
 ```
 2) Do a rolling deployment to each node in your cluster
+
 3) Re enable shard allocation
 ```
 PUT /_cluster/settings
